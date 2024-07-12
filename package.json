@@ -1,0 +1,14 @@
+{
+  "name": "oop-my-bank-212",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bank.js",
+  "type": "module",
+  "bin": "bank.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
